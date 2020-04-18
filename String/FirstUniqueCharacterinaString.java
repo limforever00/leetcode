@@ -3,7 +3,7 @@ package String;
 import java.util.ArrayList;
 import java.util.List;
 
-//이거 지금 안되는거임
+
 public class FirstUniqueCharacterinaString {
 
 	public static void main(String[] args) {
